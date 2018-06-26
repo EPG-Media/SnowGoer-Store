@@ -1,2 +1,6 @@
 
-README-PRODUCTION.md 
+.DS_Store
+.logs
+.env
+
+README-PRODUCTION.md
