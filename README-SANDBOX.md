@@ -20,7 +20,7 @@
 <img src="./img/api.png" width="70%">
 
 
-# !~IMPORTANT~!
+# IMPORTANT
 
 ### When testing store with valid Authorize.net credentials, remember to enable `Authorize.net sandbox` in the `WooCommerce settings`
 
